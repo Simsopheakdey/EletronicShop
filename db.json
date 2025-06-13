@@ -1,0 +1,798 @@
+{
+  "users": [
+    {
+      "id": "a499281f-88b0-4ebf-bf97-f0d9636b4d59",
+      "username": "sim.sopheakdey.1222@rupp.edu.kh",
+      "email": "d@gmail.com",
+      "password": "a",
+      "role": "customer"
+    },
+    {
+      "id": "b3887707-e41b-4bea-b127-921862701dcc",
+      "username": "kdeyded",
+      "email": "Pesbrokdey79@gmail.com",
+      "password": "4",
+      "role": "customer"
+    }
+  ],
+  "carts": [],
+  "orders": [],
+  "products": [
+    {
+      "name": "iPhone 15 Pro Max",
+      "description": "Apple's latest flagship smartphone featuring a powerful A17 Bionic chip, advanced camera system, and a stunning Super Retina XDR display. Experience seamless performance and exceptional battery life.",
+      "category": "Smartphones",
+      "price": 1299,
+      "images": [
+        "https://bizweb.dktcdn.net/100/517/334/products/ip-15-pro-max-mhm-16837fc55e3c49e58d4b71a49cc5a920-1024x1024-7763584d-6ee4-48c5-aab5-e3d7bbde8f3e.jpg?v=1716308537983",
+        "https://bizweb.dktcdn.net/100/517/334/products/ip-15-pro-max-mhm-titan-39fa39195e794e36824c835f056324bc-1024x1024-d46d36a5-1b1b-40d4-847d-d3ca5c2c1c22.jpg?v=1716308539490",
+        "https://bizweb.dktcdn.net/100/517/334/products/ip-15-pro-max-mhm-trang-a54065433ad04992b917c5a912a15528-1024x1024-copy-d50fa159-1200-4948-b3d7-beee7b07cc5b.jpg?v=1716308540147",
+        "https://bizweb.dktcdn.net/100/517/334/products/ip-15-pro-max-mhm-xanh-9a4ac8db5bb34883956fc0704320830f-grande-f3c2eec1-29c9-4d80-804d-95b2dd812f46.jpg?v=1716308540803"
+      ],
+      "stock": 50,
+      "discount": 25,
+      "rate": 3.6,
+      "id": "e0a3"
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "The Samsung Galaxy S24 Ultra offers a dynamic AMOLED display, 200MP camera, and S Pen support, making it the ultimate device for productivity and creativity.",
+      "category": "Smartphones",
+      "price": 1199,
+      "images": [
+        "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/9/190905_2024.jpg",
+        "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/9/190905_2024_1.jpg",
+        "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/9/190905_2024_2.jpg",
+        "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/9/190905_2024_3.jpg",
+        "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/9/190905_2024_5.jpg",
+        "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/9/190905_2024_8.jpg"
+      ],
+      "stock": 60,
+      "discount": 7,
+      "rate": 4.2,
+      "id": "5a3b"
+    },
+    {
+      "name": "Sony Xperia 1 V",
+      "description": "Sony's Xperia 1 V delivers cinematic 4K OLED visuals, professional-grade camera features, and Hi-Res audio for an immersive multimedia experience.",
+      "category": "Smartphones",
+      "price": 999,
+      "images": [
+        "https://media.very.co.uk/i/very/W38EJ_SQ1_0000000004_BLACK_SLf?$pdp_990x1320_x2$&fmt=webp&$roundel_very$&p1_img=insurance_available",
+        "https://media.very.co.uk/i/very/W38EJ_SQ2_0000000004_BLACK_SLb?$pdp_990x1320_x2$&fmt=webp&$roundel_very$&p1_img=insurance_available",
+        "https://media.very.co.uk/i/very/W38EJ_SQ3_0000000004_BLACK_SLa?$pdp_990x1320_x2$&fmt=webp&$roundel_very$&p1_img=insurance_available",
+        "https://media.very.co.uk/i/very/W38EJ_SQ5_0000000004_BLACK_SLd1?$pdp_990x1320_x2$&fmt=webp&$roundel_very$&p1_img=insurance_available"
+      ],
+      "stock": 30,
+      "discount": 10,
+      "rate": 4,
+      "id": "a2ae"
+    },
+    {
+      "name": "Dell XPS 15",
+      "description": "The Dell XPS 15 is a premium laptop with a stunning InfinityEdge display, powerful Intel Core i7 processor, and long-lasting battery life, perfect for professionals and creators.",
+      "category": "Laptops",
+      "price": 1799,
+      "images": [
+        "https://www.ubuy.com.kh/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNDFyUE56MFYwNUwuX1NTNDAwXy5qcGc.jpg",
+        "https://docconcepts.com/wp-content/uploads/2021/12/Dell-XPS-15-9510-.jpg",
+        "https://shop.blueweb.co.za/wp-content/uploads/2024/09/xps15-9530-i7-13700-321tb-2004_3.png",
+        "https://media.wired.com/photos/6169f03b58660fcbc5f4ec3b/master/w_1600%2Cc_limit/Gear-Dell-XPS-15-OLED-1.jpg"
+      ],
+      "stock": 25,
+      "discount": 8,
+      "rate": 4.5,
+      "id": "16bc"
+    },
+    {
+      "name": "HP Spectre x360",
+      "description": "HP's Spectre x360 is a versatile 2-in-1 laptop with a sleek design, vibrant touchscreen, and robust security features, ideal for work and play.",
+      "category": "Laptops",
+      "price": 1599,
+      "images": [
+        "https://www.blessingcomputers.com/wp-content/uploads/2021/08/HP-Spectre-x360.png",
+        "https://www.blessingcomputers.com/wp-content/uploads/2021/08/HP-Spectre-x360-1.png",
+        "https://cdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/assets/9/f/7/3/9f73b58ecd221f94c10cb4f06589363504117573_39443b44043a48e18d90dbc2a483c51d.jpg",
+        "https://www.corning.com/microsites/csm/gorillaglass/HP/CGG_HP_Spectre-x360.jpg"
+      ],
+      "stock": 40,
+      "discount": 6,
+      "rate": 4.1,
+      "id": "8ab0"
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+      "description": "The ThinkPad X1 Carbon Gen 11 combines lightweight portability with military-grade durability, a crisp display, and legendary ThinkPad keyboard comfort.",
+      "category": "Laptops",
+      "price": 1699,
+      "images": [
+        "https://d3sfc6kj3vpz28.cloudfront.net/img/p/5/8/0/9/3/58093-large_default.jpg",
+        "https://d3sfc6kj3vpz28.cloudfront.net/img/p/5/8/0/9/4/58094-large_default.jpg",
+        "https://d3sfc6kj3vpz28.cloudfront.net/img/p/5/8/0/9/5/58095-large_default.jpg",
+        "https://khoaquan.vn/wp-content/uploads/2021/05/banle-1.jpg"
+      ],
+      "stock": 35,
+      "discount": 9,
+      "rate": 4.3,
+      "id": "68eb"
+    },
+    {
+      "name": "Microsoft Surface Laptop 5",
+      "description": "Microsoft's Surface Laptop 5 features a sleek aluminum chassis, vibrant PixelSense touchscreen, and all-day battery life for productivity on the go.",
+      "category": "Laptops",
+      "price": 1499,
+      "images": [
+        "https://images.khmer24.co/25-02-05/new-seal-surface-laptop-5-92893173873434425035717-b.jpg",
+        "https://gfx3.senetic.com/akeneo-catalog/b/2/a/b/b2ab3582689474146061a5ef2f3756f6980626bf_1677694_LF1_00054_image2.jpg",
+        "https://kcsolutions.com.do/wp-content/uploads/2024/04/Laptop-Microsoft-Surface-3-avec-1.jpg",
+        "https://laptopsking.com/cdn/shop/files/IMG_E7244.jpg?v=1703167911&width=1445"
+      ],
+      "stock": 28,
+      "discount": 7,
+      "rate": 4,
+      "id": "0023"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "description": "The Asus ROG Zephyrus G14 is a compact gaming laptop with AMD Ryzen 9 processor, RTX 4060 graphics, and a high-refresh-rate display for smooth gameplay.",
+      "category": "Laptops",
+      "price": 1899,
+      "images": [
+        "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/fRmCLXpd4FyoaeC8gfQn1MG75bXTKMii6UcyaeIz.png",
+        "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/wPZbJdtnjmmsWWMEgPMlj8UQsZynBpIqZEPKknVo.png",
+        "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/0ycJ2OQOPXNFJgwTIwjZtIIWXF7OMVY39yLAqdjR.png",
+        "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/hcyFpK461AF35hA34XOCM6ovqm5qKkcIffih5VDj.png"
+      ],
+      "stock": 20,
+      "discount": 12,
+      "rate": 4.6,
+      "id": "0587"
+    },
+    {
+      "name": "Acer Swift 5",
+      "description": "Acer Swift 5 is an ultra-lightweight laptop with a magnesium-lithium chassis, fast SSD storage, and a vivid touchscreen for effortless mobility.",
+      "category": "Laptops",
+      "price": 1099,
+      "images": [
+        "https://cdn.uc.assets.prezly.com/21568a99-ea8b-4513-95e2-f9a0228b5c1a/Swift_5_SF514-54T_SF514-54GT_01_recommended.jpg",
+        "https://cdn.uc.assets.prezly.com/c55bb2f8-4599-49bc-b301-ce585d597302/Acer-Swift-5-SF514-55-Standard_01.png",
+        "https://s13emagst.akamaized.net/products/51816/51815079/images/res_68e8ceb28db86d74be24aada24f58e4a.jpg",
+        "https://img.lazcdn.com/g/p/c677ed8ee37450c6a432fec4e7f1bfcb.png_720x720q80.png"
+      ],
+      "stock": 32,
+      "discount": 5,
+      "rate": 4.2,
+      "id": "6ab1"
+    },
+    {
+      "name": "iPad Pro 12.9-inch (2024)",
+      "description": "Apple's iPad Pro 12.9-inch features the M3 chip, Liquid Retina XDR display, and support for Apple Pencil 3, making it the ultimate tablet for professionals.",
+      "category": "Tablets",
+      "price": 1399,
+      "images": [
+        "https://www.apple.com/newsroom/images/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/article/Apple-iPad-Pro-Ultra-Retina-XDR-display-2-up-240507_inline.jpg.large.jpg",
+        "https://adminapi.applegadgetsbd.com/storage/media/large/iPad-Pro-M4-2024-SIlver-3093.jpg",
+        "https://adminapi.applegadgetsbd.com/storage/media/large/iPad-Pro-M4-2024-Space-Black-9736.jpg",
+        "https://item-shopping.c.yimg.jp/i/n/janpara_225024363-233_1_d_20250418113206"
+      ],
+      "stock": 45,
+      "discount": 6,
+      "rate": 4.7,
+      "id": "9b71"
+    },
+    {
+      "name": "Samsung Galaxy Tab S9 Ultra",
+      "description": "The Galaxy Tab S9 Ultra offers a massive AMOLED display, S Pen support, and DeX mode for a PC-like experience in a portable tablet form.",
+      "category": "Tablets",
+      "price": 1199,
+      "images": [
+        "https://econtent.o2.co.uk/o/econtent/media/get/e86c526f-ffc3-46ff-b601-41c167af2ad5",
+        "https://images.samsung.com/is/image/samsung/p6pim/hu/sm-x710nzaeeue/gallery/hu-galaxy-tab-s9-wifi-x710-sm-x710nzaeeue-537846180?$684_547_PNG$",
+        "https://www.notebookcheck.net/uploads/tx_nbc2/Samsung_Galaxy_Tab_S9_Ultra.JPG",
+        "https://images.samsung.com/is/image/samsung/p6pim/br/sm-x910nzadzto/gallery/br-galaxy-tab-s9-ultra-wifi-x910-sm-x910nzadzto-540368864?$684_547_PNG$"
+      ],
+      "stock": 38,
+      "discount": 8,
+      "rate": 4.4,
+      "id": "41d5"
+    },
+    {
+      "name": "Microsoft Surface Pro 9",
+      "description": "Surface Pro 9 is a versatile 2-in-1 tablet with a detachable keyboard, powerful Intel processor, and Windows 11 for productivity anywhere.",
+      "category": "Tablets",
+      "price": 1299,
+      "images": [
+        "https://m.media-amazon.com/images/I/51+iKnnyQeL.jpg",
+        "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Pro-9-for-Business-C:VP1-539x440",
+        "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Pro-9-for-Business-C:VP1-539x440",
+        "https://www.tmt.my/data/editor/sc-product/3607/SP9.jpg"
+      ],
+      "stock": 27,
+      "discount": 10,
+      "rate": 4.1,
+      "id": "4006"
+    },
+    {
+      "name": "Huawei MatePad Pro 13.2",
+      "description": "Huawei's MatePad Pro 13.2 features a large OLED display, HarmonyOS, and M-Pencil support for creative professionals and students.",
+      "category": "Tablets",
+      "price": 999,
+      "images": [
+        "https://shop-cdn.huawei.com/my/pms/uomcdn/MYHW/pms/202502/gbom/6942103148750/428_428_924DDC868DF7EA7A4E70AA7DBC742B0Bmp.png",
+        "https://img01.huaweifile.com/sg/ms/eg/pms/uomcdn/EG_B2B2C/pms/202503/gbom/6942103150555/group/428_428_5E6897DD579EF78332722687C82682CD.png",
+        "https://img01.huaweifile.com/sg/ms/eg/pms/uomcdn/EG_B2B2C/pms/202503/gbom/6942103150555/group/428_428_394B83EC9F6A323DAA3CE6C03F6E2644.png",
+        "https://www.jibalzone.com/media/7339/conversions/66f3ff9c664c3_Huawei-MatePad-Pro-12.2-2024-4-slider.jpg"
+      ],
+      "stock": 22,
+      "discount": 9,
+      "rate": 4,
+      "id": "8835"
+    },
+    {
+      "name": "Apple Watch Series 9",
+      "description": "The Apple Watch Series 9 offers advanced health tracking, a brighter display, and seamless integration with the Apple ecosystem.",
+      "category": "Smartwatches",
+      "price": 499,
+      "images": [
+        "https://khmerapsaraphone.com/wp-content/uploads/2023/09/apple-watch-series-9-aluminum-midnight-midnight-sport-band-1.webp",
+        "https://khmerapsaraphone.com/wp-content/uploads/2023/09/apple-watch-series-9-aluminum-pink-pink-sport-band.webp",
+        "https://khmerapsaraphone.com/wp-content/uploads/2023/09/apple-watch-series-9-aluminum-silver-blue-sport-band.webp",
+        "https://khmerapsaraphone.com/wp-content/uploads/2023/09/apple-watch-series-9-aluminum-starlight-starlight-sport-band.webp"
+      ],
+      "stock": 55,
+      "discount": 5,
+      "rate": 4.5,
+      "id": "2497"
+    },
+    {
+      "name": "Samsung Galaxy Watch 6",
+      "description": "Samsung's Galaxy Watch 6 features a sleek design, advanced fitness tracking, and long battery life for all-day wear.",
+      "category": "Smartwatches",
+      "price": 399,
+      "images": [
+        "https://images.samsung.com/is/image/samsung/p6pim/africa_en/2307/gallery/africa-en-galaxy-watch6-r945-sm-r940nzkamea-537401503?$684_547_PNG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/africa_en/2307/gallery/africa-en-galaxy-watch6-r945-sm-r940nzkamea-537401492?$684_547_JPG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/africa_en/2307/gallery/africa-en-galaxy-watch6-r945-sm-r940nzkamea-537401493?$2052_1641_JPG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/africa_en/2307/gallery/africa-en-galaxy-watch6-r945-sm-r940nzkamea-537401494?$684_547_JPG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/africa_en/2307/gallery/africa-en-galaxy-watch6-r945-sm-r940nzkamea-537401495?$684_547_JPG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/africa_en/2307/gallery/africa-en-galaxy-watch6-r945-sm-r940nzkamea-537401496?$684_547_JPG$"
+      ],
+      "stock": 48,
+      "discount": 7,
+      "rate": 4.3,
+      "id": "4a16"
+    },
+    {
+      "name": "Sony WH-1000XM5",
+      "description": "Sony's WH-1000XM5 headphones deliver industry-leading noise cancellation, crystal-clear sound, and all-day comfort for music lovers.",
+      "category": "Headphones",
+      "price": 349,
+      "images": [
+        "https://arystorephone.com/wp-content/uploads/2024/08/Sony-WH-1000XM5-Wireless-Noise-Canceling-Headphones-Smoky-Pink.jpg?v=1742627506",
+        "https://arystorephone.com/wp-content/uploads/2023/10/Sony_WH-1000XM5_Black.jpg?v=1743143207",
+        "https://arystorephone.com/wp-content/uploads/2023/10/Sony_WH-1000XM5_Midnight-Blue.jpg?v=1743143208",
+        "https://arystorephone.com/wp-content/uploads/2023/10/Sony_WH-1000XM5_White.jpg?v=1743143209",
+        "https://arystorephone.com/wp-content/uploads/2023/10/Sony_WH-1000XM5_Black-1.jpg?v=1743143208",
+        "https://arystorephone.com/wp-content/uploads/2023/10/Sony_WH-1000XM5_Black-2.jpg?v=1743143208",
+        "https://arystorephone.com/wp-content/uploads/2023/10/Sony_WH-1000XM5_Black3.jpg?v=1743143208"
+      ],
+      "stock": 70,
+      "discount": 10,
+      "rate": 4.8,
+      "id": "b94f"
+    },
+    {
+      "name": "Apple AirPods Max",
+      "description": "Apple's AirPods Max combine high-fidelity audio, active noise cancellation, and a luxurious design for an unparalleled listening experience.",
+      "category": "Headphones",
+      "price": 549,
+      "images": [
+        "https://angkormeas.com/wp-content/uploads/2023/12/Airpod-Max2_v1.jpg?v=1741576270",
+        "https://angkormeas.com/wp-content/uploads/2024/09/Airpod-Max2_Blue-768x768.jpg?v=1726739224",
+        "https://angkormeas.com/wp-content/uploads/2024/09/Airpod-Max2_Gold.jpg?v=1726739225",
+        "https://angkormeas.com/wp-content/uploads/2024/09/Airpod-Max2_Mid-600x600.jpg?v=1726739227",
+        "https://angkormeas.com/wp-content/uploads/2024/09/Airpod-Max2_Purple-600x600.jpg?v=1726739229",
+        "https://angkormeas.com/wp-content/uploads/2024/09/Airpod-Max2_Orrange.jpg"
+      ],
+      "stock": 40,
+      "discount": 8,
+      "rate": 4.6,
+      "id": "d4e5"
+    },
+    {
+      "name": "Logitech G Pro X Keyboard",
+      "description": "The Logitech G Pro X is a customizable mechanical keyboard designed for esports professionals, featuring swappable switches and RGB lighting.",
+      "category": "Keyboards",
+      "price": 149,
+      "images": [
+        "https://image-cdn.jambuntech.dev/0dJ9YdB8RY6nifkgIRtrtbWZm7vTtdbZERtk6y8a/1920x/filters:format(webp)/tk-files/g_pro_x_tkl_black_ad9a317be86de93e5fda882e74ac28f1.png",
+        "https://www.sv-comp.com/image/cache/catalog/media/main-image/p_6239-600x600.jpeg",
+        "https://www.pcworld.com/wp-content/uploads/2025/04/logitech_g_pro_x_keyboard_6-100819882-orig-1.jpg?quality=50&strip=all",
+        "https://gearstudiokh.com/web/image/product.template/164/image_1024?unique=308b3fa",
+        "https://static.labeb.com/test/images/catalogs/104810/qgrzvr1or12-w234.jpg"
+      ],
+      "stock": 80,
+      "discount": 12,
+      "rate": 4.7,
+      "id": "1e52"
+    },
+    {
+      "name": "Razer DeathAdder V3 Mouse",
+      "description": "The Razer DeathAdder V3 is an ergonomic gaming mouse with ultra-fast response times, customizable buttons, and Chroma RGB lighting.",
+      "category": "Mouses",
+      "price": 89,
+      "images": [
+        "https://m.media-amazon.com/images/I/71dmjPv+5TL.jpg",
+        "https://image-cdn.jambuntech.dev/M4aQQ2-R_a2XVdXLLiZTT5dHzfibBbH3JB9bp5U9/1920x/filters:format(webp)/tk-files/razer___deathadder_v3_pro___black_8cc9738f4673a295ddace20bfcd888ea.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPrMl8hQ7tH90nM16jkZRJ-ezUyyGHpuqpntVXni9inFjHoN-__C89aumot_Xgzhq2XU&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHgaWT_tWqPfYoxnBJOuwi4BDnvyGwZ35DkK3QevBRzGxjz0ABmWoFJ2YyrXOMUH1kODk&usqp=CAU"
+      ],
+      "stock": 90,
+      "discount": 15,
+      "rate": 4.4,
+      "id": "3427"
+    },
+    {
+      "name": "Canon EOS R8",
+      "description": "Canon's EOS R8 is a full-frame mirrorless camera with advanced autofocus, 4K video recording, and a lightweight design for creators on the move.",
+      "category": "Cameras",
+      "price": 1799,
+      "images": [
+        "https://www.laorlaorcamerashop.com/Content/Upload/ItemImage/541bd7f4-1731-40ac-9445-b15fd79f85a3.jpg",
+        "https://www.laorlaorcamerashop.com/Content/Upload/ItemImage/49c39c28-38e7-4ff9-9a91-48590b964959.jpg",
+        "https://shop.grandstores.ae/media/catalog/product/cache/f4356404ac24f13c2d79ac31d8c32034/c/a/canon-eos-r7-with-18-150mm-lens_800x800px__3_.jpg",
+        "https://www.camerahouse.com.au/media/catalog/product/_/b/_bb8ztyy.png?optimize=medium&fit=bounds&height=&width=&format=jpeg"
+      ],
+      "stock": 18,
+      "discount": 7,
+      "rate": 4.3,
+      "id": "0431"
+    },
+    {
+      "name": "DJI Mini 4 Pro",
+      "description": "The DJI Mini 4 Pro is an ultra-light drone with 4K video, obstacle avoidance, and extended flight time, perfect for aerial photography enthusiasts.",
+      "category": "Drones",
+      "price": 899,
+      "images": [
+        "https://i5.walmartimages.com/seo/DJI-Mini-4-Pro-4K-HDR-Folding-Drone-with-RC-2-Remote-Kit-CP-MA-00000732-01_7e1c988c-a7f7-4ac0-811a-90bd96b69ce2.2db9b8be82c5909c1190a2de09247000.jpeg",
+        "https://m.media-amazon.com/images/I/61wBEuKA8rL.jpg",
+        "https://images.khmer24.co/24-06-19/dji-mini-4-pro-dji-rc-2--1015886171876170428066991-e.jpg",
+        "https://www-cdn.djiits.com/dps/70c497d19e5316c3fc0fb15f194e2c81.jpg",
+        "https://droneprix.es/5501-home_default/mini-4-pro.jpg"
+      ],
+      "stock": 25,
+      "discount": 10,
+      "rate": 4.5,
+      "id": "d082"
+    },
+    {
+      "name": "Google Nest Hub Max",
+      "description": "Google's Nest Hub Max is a smart home display with a 10-inch screen, built-in camera, and Google Assistant for hands-free control of your smart devices.",
+      "category": "Smart Home Devices",
+      "price": 229,
+      "images": [
+        "https://lh3.googleusercontent.com/UK8aHGzoF23BZUEl7tDJoUga4_fsPUMDAvCFXUPChxkC8zO2TYEE22XmDHN_i2JujblITT18WzKdmOOb8zTUoCR05pRU4FRYoaM8=c0xffffff-rj",
+        "https://i5.walmartimages.com/asr/4d7b2cc1-e4de-475d-a6bc-7abed565f10e_6.5fc2fe0ec62a9d6de68ac39ef2a7c84e.png",
+        "https://mobileimages.lowes.com/productimages/20c3f24a-2b21-476e-8a24-5407322fcf79/14366999.jpg?size=pdhism",
+        "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16212468/vpavic_190501_3401_0030.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ],
+      "stock": 35,
+      "discount": 8,
+      "rate": 4.2,
+      "id": "8d5a"
+    },
+    {
+      "name": "Apple MacBook Pro 16-inch (M3)",
+      "description": "The MacBook Pro 16-inch with M3 chip delivers exceptional performance, a stunning Liquid Retina XDR display, and all-day battery life for professionals.",
+      "category": "Laptops",
+      "price": 2499,
+      "images": [
+        "https://arystorephone.com/wp-content/uploads/2023/11/macbook-pro-16-spaceblack.jpg?v=1743143022",
+        "https://arystorephone.com/wp-content/uploads/2023/11/macbook-pro-16-spaceblack-2.jpg?v=1743143023",
+        "https://arystorephone.com/wp-content/uploads/2023/11/macbook-pro-16-spaceblack-1.jpg?v=1743143022",
+        "https://arystorephone.com/wp-content/uploads/2023/11/macbook-pro-16-silver-2.jpg?v=1743143022",
+        "https://arystorephone.com/wp-content/uploads/2023/11/macbook-pro-16-silver-1.jpg?v=1743143022",
+        "https://arystorephone.com/wp-content/uploads/2023/11/macbook-pro-16-silver.jpg?v=1743143022"
+      ],
+      "stock": 15,
+      "discount": 5,
+      "rate": 4.8,
+      "id": "4443"
+    },
+    {
+      "name": "Samsung Odyssey G9 Monitor",
+      "description": "The Odyssey G9 is a 49-inch curved gaming monitor with QLED technology, 240Hz refresh rate, and immersive ultrawide experience.",
+      "category": "Monitor",
+      "price": 1499,
+      "images": [
+        "https://www.beckie-khmer.com/storage/galleris/RBFvjDHchDyrFSafPuhY6Bpw5eDLwPIpCgFs4YWb.jpeg",
+        "https://www.beckie-khmer.com/storage/galleris/cPd0wJnEsp4aWMzzDSsEC6zlFVxgmCjj20ZHpfTJ.jpeg",
+        "https://www.beckie-khmer.com/storage/galleris/rglQuBZMoUKKs4lXqCQs9O1aFdlwQC4760jQfFyq.jpeg",
+        "https://www.beckie-khmer.com/storage/galleris/HXhSwhBjIniC1n1Vyx8PHCwtfliLt84891ccbby0.jpeg",
+        "https://www.beckie-khmer.com/storage/products/QSrYFyC7JxPumbWSV2u0HnvfpjQzIowYZGkld0qo.jpeg"
+      ],
+      "stock": 22,
+      "discount": 9,
+      "rate": 4.6,
+      "id": "69ba"
+    },
+    {
+      "name": "Sony PlayStation 5",
+      "description": "Sony's PlayStation 5 offers lightning-fast load times, stunning graphics, and a new generation of exclusive games for immersive entertainment.",
+      "category": "Gaming Consoles",
+      "price": 499,
+      "images": [
+        "https://cdn.zochil.shop/dbbe75f0-0390-456e-85a8-187ded3983b6_t1500.jpg",
+        "https://i.ebayimg.com/images/g/u0gAAOSwObNkvYCc/s-l1200.jpg",
+        "https://cdn.shopify.com/s/files/1/0552/0883/7292/files/Digital-Edition---30th-Anniversary-Limited_7c677f7a-426f-4bc9-9453-81b68ca656ec.jpg?v=1732355229",
+        "https://shopcgx.com/cdn/shop/files/6543925_bd.jpg?v=1707948744",
+        "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:480,cw:2880,ch:2160,q:80,w:2880/hv7xAYATXmA4tmQjXvNyBb.png"
+      ],
+      "stock": 45,
+      "discount": 6,
+      "rate": 4.7,
+      "id": "f95a"
+    },
+    {
+      "name": "Microsoft Xbox Series X",
+      "description": "The Xbox Series X is the most powerful Xbox ever, delivering 4K gaming, fast load times, and a vast library of games.",
+      "category": "Gaming Consoles",
+      "price": 499,
+      "images": [
+        "https://i5.walmartimages.com/seo/Microsoft-Xbox-Series-X_b562417b-7584-4740-983b-422cb2832fb9.7ef4114105e8cbe37cc4125a3cb125f0.jpeg",
+        "https://img-cdn.heureka.group/v1/44515f58-8cd6-515b-aef3-aab7e123f8e5.jpg",
+        "https://m.media-amazon.com/images/I/81UHgeoSd9L.jpg",
+        "https://gamesource.pk/wp-content/uploads/2024/02/71AbYCAvr-L-min.jpg"
+      ],
+      "stock": 40,
+      "discount": 7,
+      "rate": 4.5,
+      "id": "ebd2"
+    },
+    {
+      "name": "Nintendo Switch OLED",
+      "description": "Nintendo Switch OLED features a vibrant 7-inch OLED screen, enhanced audio, and versatile play modes for gaming at home or on the go.",
+      "category": "Gaming Consoles",
+      "price": 349,
+      "images": [
+        "https://i5.walmartimages.com/seo/Nintendo-Switch-OLED-Model-with-Neon-Red-Neon-Blue-Joy-Con_83908a07-ab40-48ac-b52a-11b06690df98.59ade6f560088278b932f687f63ef363.jpeg",
+        "https://i5.walmartimages.com/asr/501948a3-de0c-46c6-a3ab-7f742a66e7f2.5d30d90f909144467d8a51ccc5d5f84b.jpeg",
+        "https://i5.walmartimages.com/asr/4d25fde1-e979-40d0-bb3a-0c82fdf3b687.40cea2859a95d20ecdb832c94bc17fa7.jpeg",
+        "https://i5.walmartimages.com/asr/cdc9f6e9-f6cd-46d6-a9fa-c5707fa68334.cf4f89dd99703e14ef01e035d1831b8a.jpeg",
+        "https://i5.walmartimages.com/asr/45744e9c-ba00-4e65-955a-01deb57d327c.bd8659eae458a6093c4e6042edb48fd5.jpeg"
+      ],
+      "stock": 38,
+      "discount": 8,
+      "rate": 4.4,
+      "id": "4842"
+    },
+    {
+      "name": "HP LaserJet Pro M404dn",
+      "description": "HP's LaserJet Pro M404dn is a fast, reliable monochrome printer with robust security features and efficient paper handling for small businesses.",
+      "category": "Printers",
+      "price": 299,
+      "images": [
+        "https://i.ebayimg.com/images/g/2EkAAOSwvghlBeQJ/s-l400.jpg",
+        "https://i.ebayimg.com/images/g/YoQAAOSwBrJlBeQK/s-l1600.webp",
+        "https://i.ebayimg.com/images/g/KJoAAOSwebVlBeQL/s-l1600.webp",
+        "https://i.ebayimg.com/images/g/khwAAOSwAwNlBeQM/s-l1600.webp",
+        "https://i.ebayimg.com/images/g/dsUAAOSwGQVlBeQM/s-l1600.webp"
+      ],
+      "stock": 30,
+      "discount": 10,
+      "rate": 4.2,
+      "id": "3df3"
+    },
+    {
+      "name": "Canon PIXMA G6020",
+      "description": "Canon PIXMA G6020 is a wireless MegaTank all-in-one printer with high-yield ink bottles, ideal for home offices and families.",
+      "category": "Printers",
+      "price": 249,
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/71AAKqxl3nL._AC_UL495_SR435,495_.jpg",
+        "https://m.media-amazon.com/images/I/91XADLCPfgL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/911jKLS65bL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/816wmE-JWgL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81bMb-17OeL._AC_SX466_.jpg"
+      ],
+      "stock": 28,
+      "discount": 12,
+      "rate": 4.1,
+      "id": "8f6d"
+    },
+    {
+      "name": "Asus RT-AX88U Router",
+      "description": "The Asus RT-AX88U is a high-performance WiFi 6 router with ultra-fast speeds, advanced security, and robust parental controls.",
+      "category": "Routers",
+      "price": 349,
+      "images": [
+        "https://dlcdnwebimgs.asus.com/gain/a89e4c03-5c2f-4393-a66b-274500da184f/w800",
+        "https://www.asus.com/media/global/gallery/a9sLCNdu5vgBnDG3_setting_xxx_0_90_end_800.png",
+        "https://www.asus.com/media/global/gallery/C9CEwd60JToI8DYh_setting_xxx_0_90_end_800.png",
+        "https://www.asus.com/media/global/gallery/v2TY7FXKiXJIThrk_setting_xxx_0_90_end_800.png",
+        "https://www.asus.com/media/global/gallery/Uvjo6rZtforMSpTB_setting_xxx_0_90_end_800.png"
+      ],
+      "stock": 33,
+      "discount": 9,
+      "rate": 4.3,
+      "id": "b3a6"
+    },
+    {
+      "name": "Google Nest Wifi Pro",
+      "description": "Google Nest Wifi Pro offers fast, reliable mesh Wi-Fi coverage, easy setup, and built-in security for your smart home.",
+      "category": "Routers",
+      "price": 299,
+      "images": [
+        "https://www.jbhifi.com.au/cdn/shop/products/662337-Product-0-I-638320695609772100_e95741fa-add0-4a4d-8abe-a2f61ea1a8d0.jpg?v=1705900025",
+        "https://www.jbhifi.com.au/cdn/shop/products/662337-Product-1-I-638320695605108532_03a4af7f-62d8-4287-a25e-17aecd61cbb2.jpg?v=1705900025",
+        "https://www.jbhifi.com.au/cdn/shop/products/662337-Product-2-I-638320695652074355_289edf08-4f77-451f-8fa6-d8957c6578a2.jpg?v=1705900025",
+        "https://www.jbhifi.com.au/cdn/shop/products/662337-Product-3-I-638320695650911892_432a925f-7884-4e54-be49-425b2fad3ca3.jpg?v=1705900025",
+        "https://www.jbhifi.com.au/cdn/shop/products/662337-Product-9-I-638320695731016779_89b88ddd-e145-439a-bbc5-dce22ba9ef20.jpg?v=1705900025"
+      ],
+      "stock": 36,
+      "discount": 8,
+      "rate": 4.2,
+      "id": "cf1d"
+    },
+    {
+      "name": "DJI Osmo Action 4",
+      "description": "DJI Osmo Action 4 is a rugged action camera with dual screens, 4K HDR video, and RockSteady stabilization for adventure enthusiasts.",
+      "category": "Cameras",
+      "price": 399,
+      "images": [
+        "https://images.khmer24.co/24-07-03/dji-osmo-action-4-adventure-combo--1015886172000027827466270-c.jpg",
+        "https://images.khmer24.co/24-07-03/dji-osmo-action-4-adventure-combo--1015886172000027842627651-d.jpg",
+        "https://images.khmer24.co/24-07-03/dji-osmo-action-4-adventure-combo--1015886172000027910047485-f.jpg",
+        "https://images.khmer24.co/24-07-03/dji-osmo-action-4-adventure-combo--1015886172000027983381723-g.jpg",
+        "https://images.khmer24.co/24-07-03/dji-osmo-action-4-adventure-combo--1015886172000027884431873-b.jpg"
+      ],
+      "stock": 20,
+      "discount": 11,
+      "rate": 4.5,
+      "id": "e553"
+    },
+    {
+      "name": "Huawei Watch GT 4",
+      "description": "Huawei Watch GT 4 offers long battery life, advanced fitness tracking, and a stylish design for everyday wear.",
+      "category": "Smartwatches",
+      "price": 299,
+      "images": [
+        "https://angkormeas.com/wp-content/uploads/2023/12/HUAWEI-WATCH-GT-4-46-mm-Black.jpg",
+        "https://arystorephone.com/wp-content/uploads/2024/02/HUAWEI-WATCH-G-4-41MM-LIGHT-GOLD-GOLD-MILANESE-STRAP-1.png",
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-gt4/watch-gt4-g/images/new/sec1/huawei-watch-gt4.jpg",
+        "https://www.powerplanetonline.com/cdnassets/huawei_watch_gt_4_46mm_verde_reloj_inteligente_0001_l.jpg",
+        "https://ttt-dn.com/wp-content/uploads/2024/02/gt4.jpg"
+      ],
+      "stock": 42,
+      "discount": 10,
+      "rate": 4.3,
+      "id": "d4d3"
+    },
+    {
+      "name": "Xiaomi Mi Smart Band 8",
+      "description": "Xiaomi Mi Smart Band 8 is an affordable fitness tracker with heart rate monitoring, sleep tracking, and a vibrant AMOLED display.",
+      "category": "Wearables",
+      "price": 59,
+      "images": [
+        "https://www.batna24.com/img2/1000/335460_170916.webp",
+        "https://www.batna24.com/img2/1000/335460_170915.webp",
+        "https://www.batna24.com/img2/1000/335460_170918.webp",
+        "https://www.batna24.com/img2/1000/335460_170919.webp"
+      ],
+      "stock": 100,
+      "discount": 15,
+      "rate": 4.1,
+      "id": "35cb"
+    },
+    {
+      "name": "Lenovo Legion 5 Pro",
+      "description": "Lenovo Legion 5 Pro is a high-performance gaming laptop with AMD Ryzen 7, RTX 4070 graphics, and a 165Hz QHD display for competitive gaming.",
+      "category": "Laptops",
+      "price": 1799,
+      "images": [
+        "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/Uz9G5o0ANldZ4bzUazkeEk1EkO1XQ5HkEMTVPilk.png",
+        "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/mVGscSuMWWpns400YJxxRPNEjWatE1iFC7PIxDwL.png",
+        "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/rHva21KhYPFHf3GfTevbkNnAQ6htrCaDkf5fpVJ5.png",
+        "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/LIg6FNusRgR0pwLELIjRlvg1HiWdcgzPhPJPyNZY.png",
+        "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/ePdysEAbbRY6ujodysqBYJedTkPJBB1VrSkX3B01.png",
+        "https://s3.ap-southeast-1.amazonaws.com/uploads-store/uploads/all/HYcn0DoXd2G9YhQom77vi8D4MeWpQwaY2dVdmsqW.png"
+      ],
+      "stock": 18,
+      "discount": 10,
+      "rate": 4.6,
+      "id": "a737"
+    },
+    {
+      "name": "Acer Predator X34 Monitor",
+      "description": "Acer Predator X34 is a 34-inch curved gaming monitor with NVIDIA G-SYNC, 120Hz refresh rate, and immersive ultrawide visuals.",
+      "category": "Monitors",
+      "price": 999,
+      "images": [
+        "https://m.media-amazon.com/images/I/4103kE7-hZL.jpg",
+        "https://m.media-amazon.com/images/I/41fVhyZnIxL.jpg",
+        "https://m.media-amazon.com/images/I/31kn2KHv3rL.jpg",
+        "https://m.media-amazon.com/images/I/41rP91OJOGL.jpg",
+        "https://m.media-amazon.com/images/I/314Or0jqqtL.jpg",
+        "https://m.media-amazon.com/images/I/31JH5GRC3zL.jpg"
+      ],
+      "stock": 16,
+      "discount": 9,
+      "rate": 4.5,
+      "id": "5d72"
+    },
+    {
+      "name": "Samsung Galaxy Buds2 Pro",
+      "description": "Samsung Galaxy Buds2 Pro offer immersive sound, intelligent ANC, and a comfortable fit for all-day listening.",
+      "category": "Headphones",
+      "price": 229,
+      "images": [
+        "https://khmerapsaraphone.com/wp-content/uploads/2023/02/galaxy_buds2pro_borapurple1.jpg",
+        "https://khmerapsaraphone.com/wp-content/uploads/2023/02/galaxy_buds2pro_graphite_1.jpg",
+        "https://khmerapsaraphone.com/wp-content/uploads/2023/02/galaxy_buds2pro_white_1.jpg",
+        "https://images.samsung.com/is/image/samsung/assets/lb/audio-sound/galaxy-buds/galaxy-buds2-pro/galaxy-buds2-pro-fit-buds-zoom-in-mo.jpg?$ORIGIN_JPG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/latin_en/2208/gallery/latin-en-galaxy-buds2-pro-r510-sm-r510nlvalta-533187603?$684_547_PNG$"
+      ],
+      "stock": 60,
+      "discount": 12,
+      "rate": 4.3,
+      "id": "c0e8"
+    },
+    {
+      "name": "Apple Magic Keyboard",
+      "description": "Apple Magic Keyboard delivers a comfortable and precise typing experience, with a sleek design and long-lasting battery.",
+      "category": "Keyboards",
+      "price": 129,
+      "images": [
+        "https://cdni.dienthoaivui.com.vn/x,webp,q100/https://dashboard.dienthoaivui.com.vn/uploads/wp-content/uploads/2021/12/magic-keyboard-2.jpg",
+        "https://www.albadeel.com.ly/wp-content/uploads/2023/01/MJQL3LL_AV3.jpg",
+        "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR53_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=UjFOa1QxNUtEdFRkWThzU0J2eVhCbFZya2lKWlJmUEwrYndWOTJiVWJWQUYwVmtIbGRkS25RMVpBRlo0bk5DUTAvdGo2MGJvYlAyelJnWnI1dHcxaXc",
+        "https://macfinder.co.uk/wp-content/uploads/2020/03/img-Accessories-27661.png"
+      ],
+      "stock": 70,
+      "discount": 8,
+      "rate": 4.4,
+      "id": "14d3"
+    },
+    {
+      "name": "Logitech MX Master 3S",
+      "description": "Logitech MX Master 3S is an advanced wireless mouse with ultra-fast scrolling, ergonomic design, and customizable buttons for productivity.",
+      "category": "Mouses",
+      "price": 99,
+      "images": [
+        "https://www.goldonecomputer.com/image/cache/catalog/Products/Accessories/2023/Mouse/Logitech%20/Logitech-MX-Master-3S-500x500.jpg",
+        "https://www.tmt.my/data/editor/sc-product/2886/LogitechMXMaster3S.jpg",
+        "https://www.batna24.com/img2/1000/332334_157540.webp",
+        "https://progearcambodia.com/wp-content/uploads/2022/07/71g7JL29CL._AC_SL1500_-600x580.jpg"
+      ],
+      "stock": 85,
+      "discount": 10,
+      "rate": 4.5,
+      "id": "ce68"
+    },
+    {
+      "name": "Google Pixel Tablet",
+      "description": "Google Pixel Tablet features a crisp display, Google Tensor chip, and seamless integration with the Google ecosystem for productivity and entertainment.",
+      "category": "Tablets",
+      "price": 699,
+      "images": [
+        "https://m.media-amazon.com/images/I/71nJxwi2gYL.jpg",
+        "https://techbug-my.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2023/06/29150546/71YZxO0GBSL.jpg",
+        "https://m.media-amazon.com/images/I/71EXa2LqIaL._AC_SX466_.jpg",
+        "https://lh3.googleusercontent.com/prI94zldCLrRY0t23pjluxHM5PG9EOxGC-EAvWrB0lx1nwHZ4vQ9Zf3I4bgKnV67LLqVrjTrJa97Grk5diC9NPf11cwbit1LF-P9=s0",
+        "https://m.media-amazon.com/images/I/71XySfAlGuL.jpg"
+      ],
+      "stock": 30,
+      "discount": 7,
+      "rate": 4.2,
+      "id": "4082"
+    },
+    {
+      "name": "Huawei MateBook X Pro",
+      "description": "Huawei MateBook X Pro is an ultra-slim laptop with a 3K touchscreen, Intel Core i7 processor, and premium build quality.",
+      "category": "Laptops",
+      "price": 1599,
+      "images": [
+        "https://img01.huaweifile.com/sg/ms/sa/pms/uomcdn/SA_HW_B2C/pms/202405/gbom/6942103127069/800_800_D7C1167A0471A82B246E4F01543FD2C2mp.png",
+        "https://img01.huaweifile.com/sg/ms/sa/pms/uomcdn/SA_HW_B2C/pms/202405/gbom/6942103127069/group/800_800_FF0EB25887F059F1198E0BED0FDCE887.png",
+        "https://img01.huaweifile.com/sg/ms/sa/pms/uomcdn/SA_HW_B2C/pms/202405/gbom/6942103127069/group/800_800_80CC1CC91606B61521E105009C503C24.png",
+        "https://img01.huaweifile.com/sg/ms/sa/pms/uomcdn/SA_HW_B2C/pms/202405/gbom/6942103127069/group/800_800_F28525722CAA610F117B9208289AD47F.png",
+        "https://img01.huaweifile.com/sg/ms/sa/pms/uomcdn/SA_HW_B2C/pms/202405/gbom/6942103127069/group/800_800_96A84B261C60D4E373D34AF726B5E08B.png",
+        "https://img01.huaweifile.com/sg/ms/sa/pms/uomcdn/SA_HW_B2C/pms/202405/gbom/6942103127069/group/800_800_DC40BB2C93ECE54C36537904BFDA4F71.png",
+        "https://img01.huaweifile.com/sg/ms/sa/pms/uomcdn/SA_HW_B2C/pms/202405/gbom/6942103127069/group/800_800_5B819F26AEA1907288FDCB597D759D45.png",
+        "https://img01.huaweifile.com/sg/ms/sa/pms/uomcdn/SA_HW_B2C/pms/202405/gbom/6942103127069/group/800_800_1492BC69F415DB2EEE59C75159C9783B.png"
+      ],
+      "stock": 22,
+      "discount": 9,
+      "rate": 4.3,
+      "id": "4c10"
+    },
+    {
+      "name": "DJI Air 3 Drone",
+      "description": "DJI Air 3 is a compact drone with dual cameras, 4K video, and advanced obstacle avoidance for stunning aerial photography.",
+      "category": "Drones",
+      "price": 1099,
+      "images": [
+        "https://m.media-amazon.com/images/I/516rOonY4GL.jpg",
+        "https://m.media-amazon.com/images/I/611tKQt6njL.jpg",
+        "https://images.khmer24.co/24-06-29/dji-air-3-fly-more-combo-dji-rc2--1015886171966364689521794-e.jpg",
+        "https://www-cdn.djiits.com/dps/f4e62a588cb934f2c2e1d876f2e73e82.png",
+        "https://jetayugadgets.com/storage/639/1-(2).png"
+      ],
+      "stock": 18,
+      "discount": 11,
+      "rate": 4.4,
+      "id": "24eb"
+    },
+    {
+      "name": "Samsung Smart Monitor M8",
+      "description": "Samsung Smart Monitor M8 is a stylish 32-inch 4K monitor with built-in smart TV apps, wireless connectivity, and USB-C support.",
+      "category": "Monitors",
+      "price": 699,
+      "images": [
+        "https://images.samsung.com/is/image/samsung/p6pim/ph/ls32dm801uexxp/gallery/ph-smart-m8-32m80d-ls32dm801uexxp-541230202?$684_547_JPG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/ph/ls32dm801uexxp/gallery/ph-smart-m8-32m80d-ls32dm801uexxp-541230166?$684_547_JPG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/ph/ls32dm801uexxp/gallery/ph-smart-m8-32m80d-ls32dm801uexxp-541230171?$684_547_JPG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/ph/ls32dm801uexxp/gallery/ph-smart-m8-32m80d-ls32dm801uexxp-542075500?$684_547_JPG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/ph/ls32dm801uexxp/gallery/ph-smart-m8-32m80d-ls32dm801uexxp-542075496?$684_547_JPG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/ph/ls32dm801uexxp/gallery/ph-smart-m8-32m80d-ls32dm801uexxp-542075498?$684_547_JPG$"
+      ],
+      "stock": 25,
+      "discount": 8,
+      "rate": 4.2,
+      "id": "0f58"
+    },
+    {
+      "name": "Apple HomePod Mini",
+      "description": "Apple HomePod Mini is a compact smart speaker with impressive sound, Siri integration, and seamless control of your smart home devices.",
+      "category": "Smart Home Devices",
+      "price": 99,
+      "images": [
+        "https://www.apple.com/newsroom/images/2024/07/apple-introduces-homepod-mini-in-midnight/tile/Apple-HomePod-mini-midnight-lp.jpg.news_app_ed.jpg",
+        "https://i0.wp.com/ufostorekh.com/wp-content/uploads/2023/02/37bd3082-7c2e-4c61-a605-49458164feb9_1000x1000.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QBVJWQO_BUoNSSzrOO5BEBDYNbQbsZzVaVxcRvYgi9JbZZPzsqM-pyAHThaI38hd9Ao&usqp=CAU",
+        "https://www.apple.com/newsroom/images/product/homepod/standard/Apple_homepod-mini-white-siri_10132020_inline.jpg.large.jpg",
+        "https://m.media-amazon.com/images/I/71FNjvNjs1L.jpg"
+      ],
+      "stock": 50,
+      "discount": 10,
+      "rate": 4.3,
+      "id": "9434"
+    },
+    {
+      "name": "Xiaomi Mi Router AX6000",
+      "description": "Xiaomi Mi Router AX6000 is a high-speed WiFi 6 router with 8 antennas, advanced security, and easy setup for large homes.",
+      "category": "Routers",
+      "price": 199,
+      "images": [
+        "https://media.router-switch.com/media/mf_webp/jpg/media/catalog/product/cache/b90fceee6a5fa7acd36a04c7b968181c/x/i/xiaomi-mi-ax6000-1.webp",
+        "https://media.router-switch.com/media/mf_webp/jpg/media/catalog/product/cache/b90fceee6a5fa7acd36a04c7b968181c/x/i/xiaomi-mi-ax6000-2.webp",
+        "https://media.router-switch.com/media/mf_webp/jpg/media/catalog/product/cache/b90fceee6a5fa7acd36a04c7b968181c/x/i/xiaomi-mi-ax6000-3.webp",
+        "https://media.router-switch.com/media/mf_webp/jpg/media/catalog/product/cache/b90fceee6a5fa7acd36a04c7b968181c/x/i/xiaomi-mi-ax6000-4.webp",
+        "https://media.router-switch.com/media/mf_webp/jpg/media/catalog/product/cache/b90fceee6a5fa7acd36a04c7b968181c/x/i/xiaomi-mi-ax6000-5.webp"
+      ],
+      "stock": 40,
+      "discount": 13,
+      "rate": 4.1,
+      "id": "01a4"
+    },
+    {
+      "name": "Lenovo Yoga Tab 13",
+      "description": "Lenovo Yoga Tab 13 is a versatile Android tablet with a built-in kickstand, JBL speakers, and a vibrant 2K display for entertainment.",
+      "category": "Tablets",
+      "price": 599,
+      "images": [
+        "https://i5.walmartimages.com/seo/Lenovo-Yoga-Tab-13-ZA8E0015US-Tablet-13-Qualcomm-SM8250-AC-Snapdragon-870-5G-Octa-core-8-GB-128-GB-Storage-Android-11_c6b4fd8a-f0a9-4535-8959-59290c163b2c.fd373dfffecce294eb787278ece2edb5.jpeg",
+        "https://yekupi.blob.core.windows.net/ekupihr/1200Wx1200H/EK000473324_1.image",
+        "https://yekupi.blob.core.windows.net/ekupihr/1200Wx1200H/EK000473324_2.image",
+        "https://yekupi.blob.core.windows.net/ekupihr/515Wx515H/EK000473324_5.image",
+        "https://yekupi.blob.core.windows.net/ekupihr/1200Wx1200H/EK000473324_7.image",
+        "https://yekupi.blob.core.windows.net/ekupihr/1200Wx1200H/EK000473324_8.image",
+        "https://yekupi.blob.core.windows.net/ekupihr/1200Wx1200H/EK000473324_3.image"
+      ],
+      "stock": 28,
+      "discount": 9,
+      "rate": 4,
+      "id": "375e"
+    }
+  ]
+}
