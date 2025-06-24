@@ -1,6 +1,5 @@
 import { createContext, useEffect, useState } from "react";
-import { useNavigate } from "react-router-dom";
-
+import { data, useNavigate } from "react-router-dom";
 
 export const AuthContext = createContext();
 
@@ -53,7 +52,7 @@ const AuthProvider = ({ children }) => {
       }
 
       if (data[0].password == loginData.password) {
-        localStorage.setItem("id", data.id);
+        localStorage.setItem("id", data[0].id);
         setIsAuthenticated(true);
         navigate("/");
       } else {

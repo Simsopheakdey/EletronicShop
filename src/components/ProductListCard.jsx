@@ -1,6 +1,9 @@
-import React from 'react'
+import React, { useContext } from 'react'
+import { Link } from 'react-router-dom';
+import { CartContext } from '../context/CartProvider';
 
 const ProductListCard = ({product, showStyle}) => {
+const {addToCart} = useContext(CartContext)
   return (
     <div className="group rounded-lg border bg-card text-card-foreground shadow-sm hover:shadow-lg transition-shadow">
         <div className={`p-4 ${showStyle === "list" && "flex gap-3 items-center"}`}>
@@ -52,10 +55,10 @@ const ProductListCard = ({product, showStyle}) => {
                         )}
                     </div>
                     <div className="flex gap-2">
-                        <button className="inline-flex items-center justify-center gap-2 whitespace-nowrap text-xs font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-8 rounded-md px-3">
+                        <Link to={`/products/${product.id}`} className="inline-flex items-center justify-center gap-2 whitespace-nowrap text-xs font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-8 rounded-md px-3">
                             View
-                        </button>
-                        <button className="inline-flex items-center text-white justify-center gap-2 whitespace-nowrap text-xs font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-black text-primary-foreground hover:bg-primary/90 h-8 rounded-md px-3">
+                        </Link>
+                        <button onClick={()=>addToCart(product.id, 1)} className="inline-flex items-center text-white justify-center gap-2 whitespace-nowrap text-xs font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-black text-primary-foreground hover:bg-primary/90 h-8 rounded-md px-3">
                             <i className="bx bx-cart"></i> Add
                         </button>
                     </div>

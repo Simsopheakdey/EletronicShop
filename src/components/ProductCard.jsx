@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 const ProductCard = ({ product }) => {
@@ -54,9 +55,9 @@ const ProductCard = ({ product }) => {
               </span>
             )}
           </div>
-          <button className="inline-flex items-center justify-center gap-2 whitespace-nowrap text-[12px] bg-gray-900 font-medium text-primary-foreground hover:bg-primary/90 text-white py-2 rounded-md px-3">
+          <Link to={`/products/${product.id}`} className="inline-flex items-center justify-center gap-2 whitespace-nowrap text-[12px] bg-gray-900 font-medium text-primary-foreground hover:bg-primary/90 text-white py-2 rounded-md px-3">
             View Product
-          </button>
+          </Link>
         </div>
       </div>
     </div>

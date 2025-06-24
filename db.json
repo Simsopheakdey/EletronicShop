@@ -13,9 +13,43 @@
       "email": "Pesbrokdey79@gmail.com",
       "password": "4",
       "role": "customer"
+    },
+    {
+      "id": "06730ce6-5645-4851-b85f-9875b2da924d",
+      "username": "tona",
+      "email": "sopheakdeysim01@gmail.com",
+      "password": "rrrr",
+      "role": "customer"
     }
   ],
-  "carts": [],
+  "carts": [
+    {
+      "id": "e0a3",
+      "name": "iPhone 15 Pro Max",
+      "description": "Apple's latest flagship smartphone featuring a powerful A17 Bionic chip, advanced camera system, and a stunning Super Retina XDR display. Experience seamless performance and exceptional battery life.",
+      "category": "Smartphones",
+      "price": 1299,
+      "images": "https://bizweb.dktcdn.net/100/517/334/products/ip-15-pro-max-mhm-16837fc55e3c49e58d4b71a49cc5a920-1024x1024-7763584d-6ee4-48c5-aab5-e3d7bbde8f3e.jpg?v=1716308537983",
+      "stock": 50,
+      "discount": 25,
+      "rate": 3.6,
+      "quantity": 1,
+      "userId": "06730ce6-5645-4851-b85f-9875b2da924d"
+    },
+    {
+      "id": "5a3b",
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "The Samsung Galaxy S24 Ultra offers a dynamic AMOLED display, 200MP camera, and S Pen support, making it the ultimate device for productivity and creativity.",
+      "category": "Smartphones",
+      "price": 1199,
+      "images": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/9/190905_2024.jpg",
+      "stock": 60,
+      "discount": 7,
+      "rate": 4.2,
+      "quantity": 1,
+      "userId": "06730ce6-5645-4851-b85f-9875b2da924d"
+    }
+  ],
   "orders": [],
   "products": [
     {

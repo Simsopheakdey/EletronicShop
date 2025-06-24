@@ -4,7 +4,7 @@ import { ProductContext } from "../context/ProductProvider";
 import { Link } from "react-router-dom";
 
 const Home = () => {
-  const { products, categories } = useContext(ProductContext);
+  const { allProducts, categories } = useContext(ProductContext);
 
   return (
     <>
@@ -98,10 +98,10 @@ const Home = () => {
             </Link>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mt-10">
-            {!products ? (
+            {!allProducts ? (
               <p>Empty Product</p>
             ) : (
-              products
+              allProducts
                 .slice(0, 8)
                 .map((product) => (
                   <ProductCard key={product.id} product={product} />
