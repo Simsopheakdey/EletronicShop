@@ -1,12 +1,12 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Login from "../pages/Login";
-import Register from "../pages/Register";
-import Home from "../Pages/Home";
+import Register from "../Pages/Register"
+import Home from "../pages/Home";
 import NotFound from "../pages/NotFound";
-import Product from "../Pages/products";
-import Cart from "../Pages/Home";
-import ProductDetial from "../Pages/ProductDetial";
+import Product from "../Pages/products"
+import Cart from "../pages/Cart";
+import ProductDetial from "../Pages/ProductDetial"
 
 const AppRouter = () => {
   return (

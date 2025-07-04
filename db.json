@@ -6,21 +6,8 @@
       "email": "d@gmail.com",
       "password": "a",
       "role": "customer"
-    },
-    {
-      "id": "b3887707-e41b-4bea-b127-921862701dcc",
-      "username": "kdeyded",
-      "email": "Pesbrokdey79@gmail.com",
-      "password": "4",
-      "role": "customer"
-    },
-    {
-      "id": "06730ce6-5645-4851-b85f-9875b2da924d",
-      "username": "tona",
-      "email": "sopheakdeysim01@gmail.com",
-      "password": "rrrr",
-      "role": "customer"
     }
+  
   ],
   "carts": [
     {
