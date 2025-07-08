@@ -32,9 +32,9 @@ const Home = () => {
                 <span className="text-3xl font-bold text-blue-600 mb-8 mt-5">
                   $1299
                 </span>
-                <button className="text-[12px] px-6 py-3 rounded-md text-white bg-blue-600">
-                  Shop Now
-                </button>
+               {/* <--! <button className="text-[12px] px-6 py-3 rounded-md text-white bg-blue-600">
+                   Now
+                </button>!--> */}
               </div>
               <div className=" flex justify-center items-center">
                 <img
