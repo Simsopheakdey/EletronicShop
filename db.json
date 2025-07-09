@@ -6,9 +6,30 @@
       "email": "Pesbrokdey79@gmail.com",
       "password": "7777",
       "role": "customer"
+    },
+    {
+      "id": "50516dd2-d1f2-4414-bf17-078d73c5f016",
+      "username": "kdeyded",
+      "email": "pesbrokdey79@gmail.com",
+      "password": "a",
+      "role": "customer"
     }
   ],
-  "carts": [],
+  "carts": [
+    {
+      "id": "a2ae",
+      "name": "Sony Xperia 1 V",
+      "description": "Sony's Xperia 1 V delivers cinematic 4K OLED visuals, professional-grade camera features, and Hi-Res audio for an immersive multimedia experience.",
+      "category": "Smartphones",
+      "price": 999,
+      "images": "https://media.very.co.uk/i/very/W38EJ_SQ1_0000000004_BLACK_SLf?$pdp_990x1320_x2$&fmt=webp&$roundel_very$&p1_img=insurance_available",
+      "stock": 30,
+      "discount": 10,
+      "rate": 4,
+      "quantity": 1,
+      "userId": "50516dd2-d1f2-4414-bf17-078d73c5f016"
+    }
+  ],
   "orders": [],
   "products": [
     {

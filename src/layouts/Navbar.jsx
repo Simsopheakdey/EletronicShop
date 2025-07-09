@@ -68,6 +68,7 @@ const Navbar = () => {
               value={searchInput}
               onChange={(e) => setSearchInput(e.target.value)}
               className="border-[0.5px] text-gray-500 border-gray-300 rounded-sm outline-[0.5px] focus:outline-blue-500 px-2 py-[7px] text-[12px] w-[230px]"
+              
             />
           </form>
 
@@ -93,6 +94,8 @@ const Navbar = () => {
             <>
               <Link to={"/login"}>Login</Link>
               <Link to={"/register"}>Register</Link>
+              <Link to="/add-product">Add Product</Link>
+
             </>
           )}
         </div>
